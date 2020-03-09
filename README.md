@@ -1,0 +1,2 @@
+# infoVis
+Information visualization class
