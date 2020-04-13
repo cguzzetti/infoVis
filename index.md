@@ -2,9 +2,11 @@
 
 ### Week 9
 
-[Sleep Hours Needed Vs. Averaged](https://raw.githubusercontent.com/cguzzetti/infoVis/master/makeoverMonday/week9/week9.md)
+[Sleep Hours Needed Vs. Averaged](https://cguzzetti.github.io/infoVis/makeoverMonday/week9)
 
 ### Week 10
+
+[Sleep Hours Needed Vs. Averaged](https://raw.githubusercontent.com/cguzzetti/infoVis/master/makeoverMonday/week10/week10.md)
 
 ### Week 11
 
