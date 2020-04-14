@@ -2,11 +2,11 @@
 
 ### Week 9
 
-[Sleep Hours Needed Vs. Averaged](https://cguzzetti.github.io/infoVis/makeoverMonday/week9)
+[Sleep hours needed vs. averaged](https://cguzzetti.github.io/infoVis/makeoverMonday/week9)
 
 ### Week 10
 
-[Sleep Hours Needed Vs. Averaged](https://cguzzetti.github.io/infoVis/makeoverMonday/week10)
+[Violence against women and girls](https://public.tableau.com/views/Visualizegenderequality/Dashboard1?:showVizHome=no&:embed=true#1)
 
 ### Week 11
 
